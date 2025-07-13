@@ -6,6 +6,7 @@ I'm kinda new to **open source collaborations**, but I'm eager and ready to lear
 
 Development wise, I've taken **CS50's Introduction to Computer Science** course, and I'll be jumping into their **Web Development with Python** course in a couple of months.
 
+> *Simple. True. Me.*
 
 ---
 
