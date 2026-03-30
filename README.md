@@ -54,7 +54,7 @@ Development wise, I've taken **CS50's Introduction to Computer Science** course,
 ### Contact Me
 
 * ✉️  You can reach me at [moboladej.oladele@gmail.com](mailto:moboladej.oladele@gmail.com)
-*     : Or place a phone call to (tel:+2349161930974)
+*     : Or place a phone call to tel:+2349163930974
 
 ### Socials
 
