@@ -1,16 +1,23 @@
-### Hi, I'm Joe 👋  
-I love to code.
+# Hi, I'm Joe 👋
 
-I've developed my skills in **C**, **HTML**, **CSS**, and a bit of **Python**, and I've made some projects along the way.  
-I'm kinda new to **open source collaborations**, but I'm eager and ready to learn, and grow with others just like me.
+I'm a software developer who enjoys building things, solving problems, and learning by creating.
 
-Development wise, I've taken **CS50's Introduction to Computer Science** course, and I'll be jumping into their **Web Development with Python** course in a couple of months.
+I started programming with **CS50's Introduction to Computer Science**, where I built a strong foundation in computer science and C. Since then, I've expanded my skills into **Python**, **HTML**, and **CSS**, and have continued improving by building personal projects and writing more production-quality code.
 
-> *Simple. True. Me.*
+Recently I've been focusing on:
+
+* Writing cleaner and more maintainable code.
+* Building projects that solve real problems instead of just tutorials.
+* Learning Git and collaborating more effectively through GitHub.
+* Continuously improving my programming fundamentals.
+
+I'm still early in my journey, but every project teaches me something new, and I'm always looking for opportunities to grow as a developer.
+
+> *Always learning. Always building.*
 
 ---
 
-### GitHub Stats
+# 📊 GitHub Stats
 
 [![Anurag's GitHub stats - Dark](https://github-stats-extended.vercel.app/api?username=MoboladeJOladele&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only)
 [![Anurag's GitHub stats - Light](https://github-stats-extended.vercel.app/api?username=MoboladeJOladele&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-light-mode-only)
@@ -23,53 +30,43 @@ Development wise, I've taken **CS50's Introduction to Computer Science** course,
 
 ---
 
-### Tech Stack
+# 🛠 Tech Stack
 
 <p align="left">
-  <span style="padding-right: 12px;">
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="42" height="42" alt="C" />
-    </a>
-  </span>
-  <span style="padding-right: 12px;">
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="42" height="42" alt="Python" />
-    </a>
-  </span>
-  <span style="padding-right: 12px;">
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="42" height="42" alt="HTML5" />
-    </a>
-  </span>
-  <span style="padding-right: 12px;">
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="42" height="42" alt="CSS3" />
-    </a>
-  </span>
+  <a href="https://docs.microsoft.com/en-us/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="42" height="42" alt="C"/>
+  </a>
+
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="42" height="42" alt="Python"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="42" height="42" alt="HTML5"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="42" height="42" alt="CSS3"/>
+  </a>
 </p>
 
 ---
 
-### Contact Me
+# 📫 Contact
 
-* ✉️  You can reach me at [moboladej.oladele@gmail.com](mailto:moboladej.oladele@gmail.com)
-* 📞  Or give me a call at [+234 916 393 0974](tel:+2349163930974)
+* ✉️ **Email:** [mailto:moboladej.oladele@gmail.com](mailto:moboladej.oladele@gmail.com)
+* 📞 **Phone:** +234 916 393 0974
 
-### Socials
+---
+
+# 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://discord.com/users/oladelemoboladejoseph" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
-    </picture>
+  <a href="https://discord.com/users/oladelemoboladejoseph">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord"/>
   </a>
-  <a href="https://www.github.com/MoboladeJOladele" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-    </picture>
+
+  <a href="https://github.com/MoboladeJOladele">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/>
   </a>
 </p>
