@@ -1,5 +1,5 @@
 ### Hi, I'm Joe 👋  
-I'm a 17-year-old who loves to code.
+I love to code.
 
 I've developed my skills in **C**, **HTML**, **CSS**, and a bit of **Python**, and I've made some projects along the way.  
 I'm kinda new to **open source collaborations**, but I'm eager and ready to learn, and grow with others just like me.
@@ -12,14 +12,14 @@ Development wise, I've taken **CS50's Introduction to Computer Science** course,
 
 ### GitHub Stats
 
-[![Anurag's GitHub stats - Dark](https://github-readme-stats.vercel.app/api?username=MoboladeJOladele&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats - Light](https://github-readme-stats.vercel.app/api?username=MoboladeJOladele&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats - Dark](https://github-stats-extended.vercel.app/api?username=MoboladeJOladele&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only)
+[![Anurag's GitHub stats - Light](https://github-stats-extended.vercel.app/api?username=MoboladeJOladele&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/stats-organization/github-stats-extended#gh-light-mode-only)
 
-[![GitHub Streak - Dark](https://github-readme-streak-stats.herokuapp.com?user=MoboladeJOladele&theme=dark&hide_border=true#gh-dark-mode-only)](https://github.com/MoboladeJOladele#gh-dark-mode-only)
-[![GitHub Streak - Light](https://github-readme-streak-stats.herokuapp.com?user=MoboladeJOladele&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/MoboladeJOladele#gh-light-mode-only)
+[![GitHub Streak - Dark](https://streak-stats.demolab.com?user=MoboladeJOladele&theme=dark&hide_border=true#gh-dark-mode-only)](https://github.com/MoboladeJOladele#gh-dark-mode-only)
+[![GitHub Streak - Light](https://streak-stats.demolab.com?user=MoboladeJOladele&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/MoboladeJOladele#gh-light-mode-only)
 
-[![Top Languages - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=MoboladeJOladele&layout=compact&theme=dark&hide_border=true#gh-dark-mode-only)](https://github.com/MoboladeJOladele#gh-dark-mode-only)
-[![Top Languages - Light](https://github-readme-stats.vercel.app/api/top-langs/?username=MoboladeJOladele&layout=compact&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/MoboladeJOladele#gh-light-mode-only)
+[![Top Languages - Dark](https://github-stats-extended.vercel.app/api/top-langs/?username=MoboladeJOladele&layout=compact&theme=dark&hide_border=true#gh-dark-mode-only)](https://github.com/MoboladeJOladele#gh-dark-mode-only)
+[![Top Languages - Light](https://github-stats-extended.vercel.app/api/top-langs/?username=MoboladeJOladele&layout=compact&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/MoboladeJOladele#gh-light-mode-only)
 
 ---
 
@@ -48,13 +48,12 @@ Development wise, I've taken **CS50's Introduction to Computer Science** course,
   </span>
 </p>
 
-
 ---
 
 ### Contact Me
 
-* ✉️  You can reach me at [moboladej.oladele@gmail.com](mailto:moboladej.oladele@gmail.com)
-*     : Or place a phone call to tel:+2349163930974
+* ✉️  You can reach me at [moboladej.oladele@gmail.com](mailto:moboladej.oladele@gmail.com)
+* 📞  Or give me a call at [+234 916 393 0974](tel:+2349163930974)
 
 ### Socials
 
